@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ibrahim Aderinto @Tunde4real
 - 👀 I’m interested in data related projects.
-- 🌱 I’m currently advancing on machine learning.
+- 🌱 I’m currently advancing on data engineering, llms.
 - 💞️ I’m looking to collaborate on any project in the data domain using python.
 - 📫 You can reach me on -- ib4real914@gmail.com .
 
